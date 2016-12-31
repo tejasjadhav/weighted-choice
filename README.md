@@ -1,3 +1,3 @@
 # Weighted Choice
 
-A simple python script for generating weighted scripts.
+`random.choice()` for weighted sequences Edit
